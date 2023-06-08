@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\bin\Debug\net7.0\task060.exe
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\bin\Debug\net7.0\task060.deps.json
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\bin\Debug\net7.0\task060.runtimeconfig.json
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\bin\Debug\net7.0\task060.dll
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\bin\Debug\net7.0\task060.pdb
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.AssemblyInfo.cs
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.dll
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\refint\task060.dll
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.pdb
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\task060.genruntimeconfig.cache
+C:\Users\danii\Desktop\учеба\HW\hw8\task060\obj\Debug\net7.0\ref\task060.dll
